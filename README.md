@@ -1,5 +1,7 @@
 # Candle Gateway
 
+CANDLE TEST
+
 [![Build Status](https://github.com/WebThingsIO/gateway/workflows/Build/badge.svg)](https://github.com/WebThingsIO/gateway/actions?query=workflow%3ABuild)
 [![codecov](https://codecov.io/gh/WebThingsIO/gateway/branch/master/graph/badge.svg)](https://codecov.io/gh/WebThingsIO/gateway)
 [![dependencies](https://david-dm.org/WebThingsIO/gateway.svg)](https://david-dm.org/WebThingsIO/gateway)
