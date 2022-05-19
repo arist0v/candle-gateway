@@ -7,7 +7,8 @@ on:
         description: 'Log level'     
         required: true
         default: 'warning'
-
+      tags:
+        description: 'Build PI'
 
 jobs:
   build:
