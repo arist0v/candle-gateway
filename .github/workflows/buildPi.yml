@@ -2,7 +2,6 @@ name: Build image and OTA update
 
 on:
   workflow_run:
-    workflows: ["build PI"]
 
 
 jobs:
